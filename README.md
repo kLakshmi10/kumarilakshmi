@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/lakshmi0810" target="blank"><img src="https://img.shields.io/twitter/follow/lakshmi0810?logo=twitter&style=for-the-badge" alt="lakshmi0810" /></a> </p>
 -  🧑‍💻 I'm a sophomore at NIT Patna 
  
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Data science and Devops**
 
 - 💬 Ask me about ** Python and Frontend web Development**
 
