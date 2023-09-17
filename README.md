@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klakshmi10" alt="klakshmi10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lakshmi0810" target="blank"><img src="https://img.shields.io/twitter/follow/lakshmi0810?logo=twitter&style=for-the-badge" alt="lakshmi0810" /></a> </p>
-- 🧑‍💻 I'm a sophomore at NIT Patna 
+-  🧑‍💻 I'm a sophomore at NIT Patna 
  
 - 🌱 I’m currently learning **Data science**
 
